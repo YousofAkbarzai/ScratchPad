@@ -1,7 +1,4 @@
 # ScratchPad
 
-iOS application using Swift and the Swift UI
-  Functionality included: 
-      - taking notes 
-      - undoing and redoing written notes
-      
+• Developed an iOS application in Swift within the SwiftUI framework that allows for quick note taking
+• Recognizes dragging motions on the screen, and includes functionality for undoing/redoing changes
